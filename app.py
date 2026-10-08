@@ -10,7 +10,7 @@ from models.anomaly_detection import detect_anomalies
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="EcoNexx",
+    page_title="EcoSense",
     page_icon="🌱",
     layout="wide"
 )
@@ -36,7 +36,7 @@ anomalies = data[data["Anomaly"] == -1]
 # HEADER
 # --------------------------------------------------
 
-st.title("🌱 EcoNexx")
+st.title("🌱 EcoSense")
 st.subheader("Sustainable Facility Intelligence Dashboard")
 
 st.write(
@@ -288,6 +288,6 @@ if user_energy > 0:
 st.divider()
 
 st.caption(
-    "EcoNexx 🌱 | Sustainable Facility Intelligence "
+    "EcoSense 🌱 | Sustainable Facility Intelligence "
     "Prototype"
 )
