@@ -728,15 +728,15 @@ st.write(
 with st.expander("View Theory & Guidelines"):
     st.markdown("""
     ### The Core Framework
-    Sustainable facility management relies on a strict priority order: **Reduce, Optimize, Replace, and Monitor**[span_0](start_span)[span_0](end_span). 
+    Sustainable facility management relies on a strict priority order: **Reduce, Optimize, Replace, and Monitor**. 
 
     ### Key Action Areas
-    *   **⚡ Electricity:** Reduce base demand by setting ACs to 24-26°C and utilizing natural daylight[span_1](start_span)[span_1](end_span). Optimize with LEDs and variable frequency drives (VFDs)[span_2](start_span)[span_2](end_span). Replace grid dependence with rooftop solar PV[span_3](start_span)[span_3](end_span).
-    *   **💧 Water:** Detect and repair minor leaks immediately, as they compound into massive losses[span_4](start_span)[span_4](end_span). Optimize usage with low-flow fixtures and sensor taps[span_5](start_span)[span_5](end_span). Replace freshwater demand by treating and reusing greywater for landscaping and flushing[span_6](start_span)[span_6](end_span).
-    *   **🗑️ Waste:** Apply the 5 Rs: Refuse, Reduce, Reuse, Recycle, and Rot[span_7](start_span)[span_7](end_span). Enforce strict source segregation to ensure organic waste is composted and dry/e-waste reaches authorized recyclers[span_8](start_span)[span_8](end_span).
+    *   **⚡ Electricity:** Reduce base demand by setting ACs to 24-26°C and utilizing natural daylight. Optimize with LEDs and variable frequency drives (VFDs). Replace grid dependence with rooftop solar PV.
+    *   **💧 Water:** Detect and repair minor leaks immediately, as they compound into massive losses. Optimize usage with low-flow fixtures and sensor taps. Replace freshwater demand by treating and reusing greywater for landscaping and flushing.
+    *   **🗑️ Waste:** Apply the 5 Rs: Refuse, Reduce, Reuse, Recycle, and Rot. Enforce strict source segregation to ensure organic waste is composted and dry/e-waste reaches authorized recyclers.
 
     ### The Human Element
-    Technology alone does not change habits; people do[span_9](start_span)[span_9](end_span). Dashboards like EcoSense convert abstract data into visible trends and actionable insights, allowing operations teams to shift equipment schedules and administrators to track long-term climate goals.
+    Technology alone does not change habits; people do. Dashboards like EcoSense convert abstract data into visible trends and actionable insights, allowing operations teams to shift equipment schedules and administrators to track long-term climate goals.
     """)
 
 # =========================================================
