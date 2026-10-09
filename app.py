@@ -383,6 +383,8 @@ else:
         "No significant abnormal resource-consumption "
         "pattern has been detected in the selected facility."
     )
+
+
 # =========================================================
 # 14. FACILITY COMPARISON
 # =========================================================
@@ -487,7 +489,7 @@ st.warning(
 )
 
 # =========================================================
-# 14. RESOURCE TRENDS
+# 15. RESOURCE TRENDS
 # =========================================================
 
 st.divider()
@@ -572,7 +574,7 @@ with tab3:
 
 
 # =========================================================
-# 15. AI ANOMALY DETECTION
+# 16. AI ANOMALY DETECTION
 # =========================================================
 
 st.divider()
@@ -616,7 +618,7 @@ else:
 
 
 # =========================================================
-# 16. RECOMMENDATIONS
+# 17. RECOMMENDATIONS
 # =========================================================
 
 st.divider()
@@ -673,7 +675,7 @@ for _, recommendation in recommendations.iterrows():
 
 
 # =========================================================
-# 17. CARBON EMISSION CALCULATOR
+# 18. CARBON EMISSION CALCULATOR
 # =========================================================
 
 st.divider()
@@ -708,9 +710,37 @@ if user_energy > 0:
         f"{co2_emitted:,.1f} kg CO₂**"
     )
 
+# =========================================================
+# 19. SUSTAINABILITY THEORY & BEST PRACTICES
+# =========================================================
+
+st.divider()
+
+st.markdown(
+    '<div class="section-title">📚 Sustainable Practices</div>',
+    unsafe_allow_html=True
+)
+
+st.write(
+    "Learn how data-driven monitoring supports real-world resource conservation."
+)
+
+with st.expander("View Theory & Guidelines"):
+    st.markdown("""
+    ### The Core Framework
+    Sustainable facility management relies on a strict priority order: **Reduce, Optimize, Replace, and Monitor**[span_0](start_span)[span_0](end_span). 
+
+    ### Key Action Areas
+    *   **⚡ Electricity:** Reduce base demand by setting ACs to 24-26°C and utilizing natural daylight[span_1](start_span)[span_1](end_span). Optimize with LEDs and variable frequency drives (VFDs)[span_2](start_span)[span_2](end_span). Replace grid dependence with rooftop solar PV[span_3](start_span)[span_3](end_span).
+    *   **💧 Water:** Detect and repair minor leaks immediately, as they compound into massive losses[span_4](start_span)[span_4](end_span). Optimize usage with low-flow fixtures and sensor taps[span_5](start_span)[span_5](end_span). Replace freshwater demand by treating and reusing greywater for landscaping and flushing[span_6](start_span)[span_6](end_span).
+    *   **🗑️ Waste:** Apply the 5 Rs: Refuse, Reduce, Reuse, Recycle, and Rot[span_7](start_span)[span_7](end_span). Enforce strict source segregation to ensure organic waste is composted and dry/e-waste reaches authorized recyclers[span_8](start_span)[span_8](end_span).
+
+    ### The Human Element
+    Technology alone does not change habits; people do[span_9](start_span)[span_9](end_span). Dashboards like EcoSense convert abstract data into visible trends and actionable insights, allowing operations teams to shift equipment schedules and administrators to track long-term climate goals.
+    """)
 
 # =========================================================
-# 18. RAW DATA
+# 20. RAW DATA
 # =========================================================
 
 st.divider()
@@ -730,7 +760,7 @@ with st.expander("View Raw Facility Data"):
 
 
 # =========================================================
-# 19. FOOTER
+# 21. FOOTER
 # =========================================================
 
 st.divider()
