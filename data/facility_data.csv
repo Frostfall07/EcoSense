@@ -1,31 +1,151 @@
 Date,Facility,Energy_kWh,Water_L,Waste_kg
-2026-09-01,GITA Campus,4200,18000,310
-2026-09-02,GITA Campus,4350,18200,315
-2026-09-03,GITA Campus,4100,17600,295
-2026-09-04,GITA Campus,4250,18100,305
-2026-09-05,GITA Campus,4400,18500,320
-2026-09-06,GITA Campus,4300,18000,310
-2026-09-07,GITA Campus,4450,18700,325
-2026-09-08,GITA Campus,4200,17900,300
-2026-09-09,GITA Campus,4380,18300,315
-2026-09-10,GITA Campus,4520,18800,330
-2026-09-11,GITA Campus,4270,18100,310
-2026-09-12,GITA Campus,4350,18400,318
-2026-09-13,GITA Campus,4420,18600,325
-2026-09-14,GITA Campus,4310,18200,312
-2026-09-15,GITA Campus,4480,18900,328
-2026-09-16,GITA Campus,4390,18500,320
-2026-09-17,GITA Campus,4550,19000,335
-2026-09-18,GITA Campus,6800,24000,510
-2026-09-19,GITA Campus,4400,18300,315
-2026-09-20,GITA Campus,4320,18100,308
-2026-09-21,GITA Campus,4460,18700,322
-2026-09-22,GITA Campus,4580,19100,338
-2026-09-23,GITA Campus,4370,18400,316
-2026-09-24,GITA Campus,4420,18600,320
-2026-09-25,GITA Campus,6900,25000,540
-2026-09-26,GITA Campus,4350,18200,312
-2026-09-27,GITA Campus,4290,18000,305
-2026-09-28,GITA Campus,4500,18800,330
-2026-09-29,GITA Campus,4410,18500,318
-2026-09-30,GITA Campus,4480,18700,325
+2026-09-01,Nexora Innovation Center,1385.1,18332,172.2
+2026-09-01,Nexora Corporate Tower,2095.4,25346,243.0
+2026-09-01,Nexora Research Lab,1620.9,15200,216.2
+2026-09-01,Nexora Data Center,3740.5,11258,112.2
+2026-09-01,Nexora Employee Campus,1758.3,32080,337.1
+2026-09-02,Nexora Innovation Center,1344.0,18205,187.8
+2026-09-02,Nexora Corporate Tower,2091.7,24834,249.1
+2026-09-02,Nexora Research Lab,1523.3,15893,226.9
+2026-09-02,Nexora Data Center,4029.8,11636,125.4
+2026-09-02,Nexora Employee Campus,1888.3,31179,325.0
+2026-09-03,Nexora Innovation Center,1308.4,17494,186.7
+2026-09-03,Nexora Corporate Tower,2199.3,23737,251.7
+2026-09-03,Nexora Research Lab,1632.9,14953,224.4
+2026-09-03,Nexora Data Center,3826.7,12030,118.8
+2026-09-03,Nexora Employee Campus,1841.8,32769,312.1
+2026-09-04,Nexora Innovation Center,1300.1,17788,174.0
+2026-09-04,Nexora Corporate Tower,2228.4,25416,268.1
+2026-09-04,Nexora Research Lab,1612.3,15758,213.7
+2026-09-04,Nexora Data Center,3760.1,12624,118.0
+2026-09-04,Nexora Employee Campus,1784.8,31875,321.9
+2026-09-05,Nexora Innovation Center,1080.3,13749,148.5
+2026-09-05,Nexora Corporate Tower,1650.9,18437,185.2
+2026-09-05,Nexora Research Lab,1386.2,13831,198.7
+2026-09-05,Nexora Data Center,3872.2,12055,112.7
+2026-09-05,Nexora Employee Campus,1601.5,26131,272.7
+2026-09-06,Nexora Innovation Center,1124.6,14927,154.1
+2026-09-06,Nexora Corporate Tower,1675.1,20189,200.0
+2026-09-06,Nexora Research Lab,1442.9,13462,198.0
+2026-09-06,Nexora Data Center,3954.2,11331,115.4
+2026-09-06,Nexora Employee Campus,1525.6,26016,276.0
+2026-09-07,Nexora Innovation Center,1279.3,18207,181.1
+2026-09-07,Nexora Corporate Tower,2077.2,24535,258.9
+2026-09-07,Nexora Research Lab,1535.4,15512,212.5
+2026-09-07,Nexora Data Center,3678.6,11785,124.4
+2026-09-07,Nexora Employee Campus,1814.6,30167,324.8
+2026-09-08,Nexora Innovation Center,1293.9,18001,189.8
+2026-09-08,Nexora Corporate Tower,2173.6,25501,268.6
+2026-09-08,Nexora Research Lab,1647.6,15255,227.8
+2026-09-08,Nexora Data Center,3954.3,12137,121.5
+2026-09-08,Nexora Employee Campus,1835.9,29634,314.0
+2026-09-09,Nexora Innovation Center,1442.5,17744,193.8
+2026-09-09,Nexora Corporate Tower,2041.6,24925,260.2
+2026-09-09,Nexora Research Lab,1683.2,16068,224.1
+2026-09-09,Nexora Data Center,3748.5,12413,119.4
+2026-09-09,Nexora Employee Campus,1843.8,31659,314.7
+2026-09-10,Nexora Innovation Center,1197.9,17687,184.8
+2026-09-10,Nexora Corporate Tower,2100.1,23009,249.8
+2026-09-10,Nexora Research Lab,1534.4,15695,215.4
+2026-09-10,Nexora Data Center,3826.8,11702,118.1
+2026-09-10,Nexora Employee Campus,1806.9,31593,323.7
+2026-09-11,Nexora Innovation Center,1322.2,18478,183.1
+2026-09-11,Nexora Corporate Tower,2197.0,25151,260.2
+2026-09-11,Nexora Research Lab,1715.6,15226,215.2
+2026-09-11,Nexora Data Center,3786.2,12177,117.4
+2026-09-11,Nexora Employee Campus,1819.9,30872,314.8
+2026-09-12,Nexora Innovation Center,1114.6,14798,142.3
+2026-09-12,Nexora Corporate Tower,1706.5,19127,185.0
+2026-09-12,Nexora Research Lab,1390.9,13805,180.7
+2026-09-12,Nexora Data Center,3772.1,11949,120.0
+2026-09-12,Nexora Employee Campus,1514.2,25072,284.5
+2026-09-13,Nexora Innovation Center,1073.6,14275,146.8
+2026-09-13,Nexora Corporate Tower,1603.8,18400,206.3
+2026-09-13,Nexora Research Lab,1373.3,12725,408.0
+2026-09-13,Nexora Data Center,3596.4,10947,114.7
+2026-09-13,Nexora Employee Campus,1652.4,25082,282.2
+2026-09-14,Nexora Innovation Center,1312.7,17422,188.1
+2026-09-14,Nexora Corporate Tower,2145.1,23408,252.2
+2026-09-14,Nexora Research Lab,1642.8,14981,215.8
+2026-09-14,Nexora Data Center,3743.8,11994,122.4
+2026-09-14,Nexora Employee Campus,1819.3,30418,324.3
+2026-09-15,Nexora Innovation Center,1309.2,17576,190.7
+2026-09-15,Nexora Corporate Tower,2169.7,24235,259.1
+2026-09-15,Nexora Research Lab,1679.5,15969,210.6
+2026-09-15,Nexora Data Center,3942.0,12042,116.7
+2026-09-15,Nexora Employee Campus,1788.3,30865,335.4
+2026-09-16,Nexora Innovation Center,1382.2,17901,176.2
+2026-09-16,Nexora Corporate Tower,2066.7,24666,271.9
+2026-09-16,Nexora Research Lab,1598.4,15586,226.3
+2026-09-16,Nexora Data Center,3862.0,11658,129.3
+2026-09-16,Nexora Employee Campus,1777.2,31987,314.0
+2026-09-17,Nexora Innovation Center,1259.8,17967,184.6
+2026-09-17,Nexora Corporate Tower,2224.3,24111,256.2
+2026-09-17,Nexora Research Lab,1613.0,16089,224.8
+2026-09-17,Nexora Data Center,3666.2,11618,114.2
+2026-09-17,Nexora Employee Campus,1872.9,31011,319.6
+2026-09-18,Nexora Innovation Center,1392.2,18449,181.7
+2026-09-18,Nexora Corporate Tower,3610.5,23658,241.4
+2026-09-18,Nexora Research Lab,1642.6,15774,218.7
+2026-09-18,Nexora Data Center,3795.3,12420,118.8
+2026-09-18,Nexora Employee Campus,1848.1,31722,337.9
+2026-09-19,Nexora Innovation Center,1072.7,14309,148.4
+2026-09-19,Nexora Corporate Tower,1674.2,18861,191.8
+2026-09-19,Nexora Research Lab,1396.8,13007,192.8
+2026-09-19,Nexora Data Center,3719.4,12132,116.5
+2026-09-19,Nexora Employee Campus,1641.2,27986,256.7
+2026-09-20,Nexora Innovation Center,1096.8,14960,150.4
+2026-09-20,Nexora Corporate Tower,1684.9,18734,202.2
+2026-09-20,Nexora Research Lab,1398.6,13307,187.7
+2026-09-20,Nexora Data Center,3636.6,11611,115.9
+2026-09-20,Nexora Employee Campus,1556.1,26237,266.9
+2026-09-21,Nexora Innovation Center,1364.3,17737,179.8
+2026-09-21,Nexora Corporate Tower,2129.7,24531,262.3
+2026-09-21,Nexora Research Lab,1604.5,16374,218.3
+2026-09-21,Nexora Data Center,3979.0,11944,126.2
+2026-09-21,Nexora Employee Campus,1761.5,30099,310.6
+2026-09-22,Nexora Innovation Center,1318.3,17515,185.5
+2026-09-22,Nexora Corporate Tower,2086.7,24107,267.0
+2026-09-22,Nexora Research Lab,1660.8,15489,222.8
+2026-09-22,Nexora Data Center,3817.6,12534,112.7
+2026-09-22,Nexora Employee Campus,1917.8,56534,334.5
+2026-09-23,Nexora Innovation Center,1392.9,17405,178.0
+2026-09-23,Nexora Corporate Tower,2101.8,24333,251.9
+2026-09-23,Nexora Research Lab,1531.7,16024,221.3
+2026-09-23,Nexora Data Center,3946.8,11798,130.2
+2026-09-23,Nexora Employee Campus,1795.6,30062,320.9
+2026-09-24,Nexora Innovation Center,1362.2,19333,176.8
+2026-09-24,Nexora Corporate Tower,2096.3,24284,267.6
+2026-09-24,Nexora Research Lab,1570.4,15708,220.3
+2026-09-24,Nexora Data Center,3807.7,12074,127.8
+2026-09-24,Nexora Employee Campus,1808.4,31072,320.2
+2026-09-25,Nexora Innovation Center,1300.2,17705,182.3
+2026-09-25,Nexora Corporate Tower,2211.0,25738,245.2
+2026-09-25,Nexora Research Lab,1644.6,15534,216.0
+2026-09-25,Nexora Data Center,3807.0,12201,116.2
+2026-09-25,Nexora Employee Campus,1772.8,31026,325.2
+2026-09-26,Nexora Innovation Center,1055.7,14476,142.2
+2026-09-26,Nexora Corporate Tower,1599.4,19504,209.9
+2026-09-26,Nexora Research Lab,1374.0,13990,191.1
+2026-09-26,Nexora Data Center,6620.6,11263,115.0
+2026-09-26,Nexora Employee Campus,1513.8,25924,286.5
+2026-09-27,Nexora Innovation Center,1013.3,14438,144.1
+2026-09-27,Nexora Corporate Tower,1597.3,19320,194.1
+2026-09-27,Nexora Research Lab,1436.5,13090,188.3
+2026-09-27,Nexora Data Center,3671.3,11531,114.8
+2026-09-27,Nexora Employee Campus,1497.3,27851,273.1
+2026-09-28,Nexora Innovation Center,1363.8,17883,186.7
+2026-09-28,Nexora Corporate Tower,2045.1,25172,263.9
+2026-09-28,Nexora Research Lab,1564.5,15861,216.9
+2026-09-28,Nexora Data Center,3801.9,12693,113.6
+2026-09-28,Nexora Employee Campus,1713.7,30524,329.1
+2026-09-29,Nexora Innovation Center,1319.5,17299,177.4
+2026-09-29,Nexora Corporate Tower,2147.7,26062,271.0
+2026-09-29,Nexora Research Lab,1631.6,16006,235.7
+2026-09-29,Nexora Data Center,3935.5,11371,117.8
+2026-09-29,Nexora Employee Campus,1833.4,30385,321.1
+2026-09-30,Nexora Innovation Center,1362.8,16691,186.0
+2026-09-30,Nexora Corporate Tower,2122.2,24927,251.5
+2026-09-30,Nexora Research Lab,1606.9,15141,205.9
+2026-09-30,Nexora Data Center,3653.4,11903,118.6
+2026-09-30,Nexora Employee Campus,1773.1,31221,313.6
